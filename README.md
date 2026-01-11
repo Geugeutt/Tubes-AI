@@ -1,3 +1,9 @@
+## ANGGOTA KELOMPOK
+1. Geugeut Nyarikawanti Surahmat (103132400002)
+2. Wahyuni Salsabila (103132400010)
+
+---
+
 ## Deskripsi
 Program ini merupakan implementasi Sistem Pendukung Keputusan untuk menentukan kelayakan rumah tinggal menggunakan metode Fuzzy Mamdani. Sistem fuzzy digunakan untuk menangani ketidakpastian dalam penilaian kelayakan berdasarkan beberapa kriteria yang bersifat linguistik.
 
