@@ -1,4 +1,4 @@
-def segitiga(x, a, b, c):
+def member(x, a, b, c):
     if x <= a or x >= c:
         return 0.0
     elif a < x < b:
