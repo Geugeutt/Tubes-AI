@@ -4,7 +4,7 @@
    Bertanggungjawab atas pembuatan poster dan membangun source code
 2. Wahyuni Salsabila (103132400010)
 
-   Bertanggungjawab atas penentuan dan analisis dataset serta membangun source code
+   Bertanggungjawab atas analisis dataset serta membangun source code
 
 ---
 
