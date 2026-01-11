@@ -1,6 +1,8 @@
 ## ANGGOTA KELOMPOK
 1. Geugeut Nyarikawanti Surahmat (103132400002)
-2. Wahyuni Salsabila (103132400010)
+   Bertanggungjawab atas pembuatan poster dan membangun source code
+3. Wahyuni Salsabila (103132400010)
+   Bertanggungjawab atas penentuan dan analisis dataset serta membangun source code
 
 ---
 
