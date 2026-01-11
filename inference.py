@@ -1,4 +1,5 @@
 def inferensi(income, age, rooms):
+    # Menentukan aturan IF-THEN berdasarkan nilai fuzzy input
     rules = []
 
     # Sangat layak
@@ -17,6 +18,7 @@ def inferensi(income, age, rooms):
 
 
 def agregasi(rules):
+    # Menggabungkan hasil inferensi 
     output = {'low': 0.0, 'medium': 0.0, 'high': 0.0}
     for value, label in rules:
         output[label] = max(output[label], value)

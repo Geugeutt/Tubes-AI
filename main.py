@@ -3,10 +3,8 @@ from inference import inferensi, agregasi
 from defuzzification import defuzzifikasi
 import csv
 
-
-import csv
-
 def read_data(filename):
+    # Membaca dan memvalidasi data dari file CSV
     data = []
     with open(filename, newline='', encoding='utf-8-sig') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -30,6 +28,7 @@ def read_data(filename):
     return data
 
 def main():
+    # Menjalankan seluruh proses fuzzy
     data = read_data('house_price_prediction.csv')
     results = []
 
@@ -57,6 +56,7 @@ def main():
 
 
 def print_table(data):
+    # Menampilkan hasil akhir dalam bentuk tabel
     print("+----+--------------------------------------+-----------+")
     print("| No | Address                              | Score     |")
     print("+----+--------------------------------------+-----------+")

@@ -1,6 +1,7 @@
 from membership import member
 
 def defuzzifikasi(output):
+    # Mengubah output fuzzy menjadi nilai crisp
     total_bobot_nilai = 0.0
     total_bobot = 0.0
 
